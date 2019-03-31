@@ -3,7 +3,7 @@ owner: Eric Silva
 email: eric.jrsilva@gmail.com
 description: My personal ideas
 baseurl: "/minimalist" # the subpath of your site, e.g. /blog
-url: "http://ericjrsilva.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ericjrsilva.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username: ericjrsilva
