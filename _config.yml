@@ -2,7 +2,7 @@ title: Ideation
 owner: Eric Silva
 email: eric.jrsilva@gmail.com
 description: My personal ideas
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ericjrsilva.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
